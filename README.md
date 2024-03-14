@@ -1,7 +1,7 @@
 
 ## WELCOME!
 
-I am an applied microeconomic theorist with main matching theory and . This fall, I have joined the Department of Economics at the [University of Vienna](https://econ.univie.ac.at/) as an Assistant Professor.  I earned my PhD in Economics from the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/) in June 2023.
+I am an applied microeconomic theorist with main matching theory and . I am a PhD student at the [Berlin School of Economics](https://berlinschoolofeconomics.de/home) and [Humboldt Unversität zu Berlin](https://www.wiwi.hu-berlin.de/en/research). In my freetime...
 <br/>
 <br/>
 Find my [CV here](https://beatethies.github.io/cv.pdf) and feel free to contact me at [beate[dot]thies[at]univie.ac.at](mailto:beate.thies@univie.ac.at).  <br/>
