@@ -1,14 +1,25 @@
 
 ## WELCOME!
 
-I am an applied microeconomist with main research interests in environmental and labor economics. This fall, I have joined the Department of Economics at the [University of Vienna](https://econ.univie.ac.at/) as an Assistant Professor.  I earned my PhD in Economics from the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/) in June 2023.
+I am an applied microeconomic theorist with main matching theory and behavioral economics. I am a PhD student at the [Berlin School of Economics](https://berlinschoolofeconomics.de/home) and [Humboldt Unversität zu Berlin](https://www.wiwi.hu-berlin.de/en/research). In my freetime...
 <br/>
 <br/>
-Find my [CV here](https://beatethies.github.io/cv.pdf) and feel free to contact me at [beate[dot]thies[at]univie.ac.at](mailto:beate.thies@univie.ac.at).  <br/>
-<br/>
-
+Find my [CV here](https://beatethies.github.io/cv.pdf) and feel free to contact me at [paul.rosmer@student.hu-berlin.de](mailto:beate.thies@univie.ac.at).  <br/>
 <br/>
 
+<br/>
+
+### PUBLISHED PAPERS
+**Fišar, M., Greiner, B., Huber, C., Katok, E., Ozkes, A. I., & Management Science Reproducibility Collaboration. (2023). Reproducibility in Management Science. Management Science.**
+Note: Member of the Management Science Reproducibility Collaboration
+
+<details>
+  <summary>Abstract | <a href="https://beatethies.github.io/AQ_GitHub.pdf">Paper</a> | <a href="https://www.thevisiblehand.uk/episodes/episode-51">Podcast</a>  <em>The Visible Hand</em> </summary>
+Highly skilled knowledge workers are important drivers of innovation and long-run growth. We study how air quality affects productivity and work patterns among these workers, using data from GitHub, the world's largest coding platform. We combine panel data on daily output, working hours, and task choices for a sample of 27,000 software developers across four continents during the period 2014-2019 with information on concentrations of fine particulate matter (PM2.5). An increase in air pollution reduces output, measured by the number of total actions performed on GitHub per day, and induces developers to adapt by working on easier tasks and by ending work activity earlier. To compensate, they work more on weekends following high-pollution days, which suggests adverse impacts on their work-life-balance. The decline in output arises even at concentrations in line with current regulatory standards in the EU and US. Exposure to unusually high PM2.5 levels relative to the city-by-season-by-day-of-week specific mean reduces daily output quantity by 4%, which translates into a loss in output value by approximately $8 per developer.
+</details>
+
+ <br/>
+ 
 ### WORKING PAPERS
 **Air Quality, Knowledge Worker Performance and Adaptation: Evidence from GitHub**  (*with [Felix Holub](https://felixholub.com/)*)
 
@@ -39,13 +50,10 @@ just through its impact on neuroticism. </div>
 <br/>
 
 ### WORK IN PROGRESS
-**Daylight, Circadian Rhythms, and Productivity** (*with [Felix Holub](https://felixholub.com/) and [Ingo Isphording](https://sites.google.com/view/ingoeisphording/about-me)*) 
+**Maximum Matching in Sparse Matching Markets**
 
 
 **Spillover Effects of Local Environmental Shocks in Global Networks of Knowledge Workers** (*with [Felix Holub](https://felixholub.com/)*)
 
 <br/>
 
-### RESEARCH FIELDS
-Environmental Economics<br/>
-Labor Economics<br/>
