@@ -22,6 +22,7 @@ With the help of more than 700 reviewers, we assess the reproducibility of nearl
  
 ### WORKING PAPERS
 **Mass Reproducibility and Replicability: A New Hope (with Brodeur, Mikola, Cook et al.)**
+Sumbitted to the JPE.
 
 <details>
   <summary>Abstract | <a href="https://econpapers.repec.org/paper/zbwi4rdps/">Paper</a> </summary>
