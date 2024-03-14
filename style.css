@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+}
+
+
+<style>
+.gh-head-actions {
+	gap: 1em;
+}
+
+.social-media-icon svg {
+	width: 1.8em;
+	fill: white;
+}
+
+h1 {
+line-height: 1;
+margin: 0;
+}
+</style>
