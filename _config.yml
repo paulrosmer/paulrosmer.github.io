@@ -1,0 +1,62 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Site Settings
+theme: jekyll-theme-minimal
+minimal_mistakes_skin: "mint" 
+
+logo                     : /photo_website.png
+title                    : "Beate Thies"
+title_separator          : "-"
+name                     : &name "Beate Thies"
+masthead_title:             "Beate Thies"
+
+github:
+  is\_project\_page: false
+
+# Site Author
+author:
+  name             : "Beate Thies"
+  bio              : #"Your biography for the left-hand sidebar"
+  location         : "University of Mannheim"
+  employer         :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "bthies[at]mail.uni-mannheim[dot]de"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "beatethies"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : #"http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "@BeateThies"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
+# Analytics
+#analytics:
+#  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+#  google:
+#    tracking_id          :
