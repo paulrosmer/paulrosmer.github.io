@@ -1,7 +1,7 @@
 
 ## WELCOME!
 
-I am an applied microeconomic theorist with main matching theory and behavioral economics. I am a PhD student at the [Berlin School of Economics](https://berlinschoolofeconomics.de/home) and [Humboldt Unversität zu Berlin](https://www.wiwi.hu-berlin.de/en/research). In my freetime...
+I am an applied microeconomic theorist with main matching theory and behavioral economics. I am a PhD student at the [Berlin School of Economics](https://berlinschoolofeconomics.de/home) and [Humboldt Unversität zu Berlin](https://www.wiwi.hu-berlin.de/en/research). I am a fellow at the Berlin Centre for Consumer Policies (BCCP). In my freetime, I contribute to the public good of ensuring reproducibility and replicability of economic research. 
 <br/>
 <br/>
 Find my [CV here](https://paulrosmer.github.io/cv.pdf) and feel free to contact me at [paul.rosmer@student.hu-berlin.de](mailto:paul.rosmer@student.hu-berlin.de).  <br/>
@@ -10,7 +10,7 @@ Find my [CV here](https://paulrosmer.github.io/cv.pdf) and feel free to contact 
 <br/>
 
 ### PUBLISHED PAPERS
-**Fišar, M., Greiner, B., Huber, C., Katok, E., Ozkes, A. I., & Management Science Reproducibility Collaboration. (2023). Reproducibility in Management Science. Management Science.**
+**Reproducibility in Management Science (with Fišar, M., Greiner, B., Huber, C., Katok, E., Ozkes, A. I., and Management Science Reproducibility Collaboration). Management Science (2023).**
 Note: Member of the Management Science Reproducibility Collaboration
 
 <details>
@@ -21,7 +21,7 @@ With the help of more than 700 reviewers, we assess the reproducibility of nearl
  <br/>
  
 ### WORKING PAPERS
-**Mass Reproducibility and Replicability: A New Hope**
+**Mass Reproducibility and Replicability: A New Hope (with Brodeur, Mikola, Cook et al.)**
 
 <details>
   <summary>Abstract | <a href="https://econpapers.repec.org/paper/zbwi4rdps/">Paper</a> </summary>
