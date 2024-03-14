@@ -10,7 +10,7 @@ Find my [CV here](https://paulrosmer.github.io/cv.pdf) and feel free to contact 
 <br/>
 
 ### PUBLISHED PAPERS
-**Reproducibility in Management Science (with Fišar, M., Greiner, B., Huber, C., Katok, E., Ozkes, A. I., and Management Science Reproducibility Collaboration). Management Science (2023).**
+**Reproducibility in Management Science (with Fišar, Greiner, Huber, Katok, Ozkes, and Management Science Reproducibility Collaboration). Management Science (2023).**
 Note: Member of the Management Science Reproducibility Collaboration
 
 <details>
