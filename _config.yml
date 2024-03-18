@@ -10,23 +10,23 @@ theme: jekyll-theme-minimal
 minimal_mistakes_skin: "mint" 
 
 logo                     : /photo_website.png
-title                    : "Beate Thies"
+title                    : "Paul Rosmer"
 title_separator          : "-"
-name                     : &name "Beate Thies"
-masthead_title:             "Beate Thies"
+name                     : &name "Paul Rosmer"
+masthead_title:             "Paul Rosmer"
 
 github:
   is\_project\_page: false
 
 # Site Author
 author:
-  name             : "Beate Thies"
+  name             : "Paul Rosmer"
   bio              : #"Your biography for the left-hand sidebar"
-  location         : "University of Mannheim"
+  location         : "Humboldt University Berlin"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "bthies[at]mail.uni-mannheim[dot]de"
+  email            : "paul.rosmer@student.hu-berlin.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -35,7 +35,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "beatethies"
+  github           : "paulrosmer"
   google_plus      :
   keybase          :
   instagram        :
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@BeateThies"
+  twitter          : "@PaulRosmer"
   vine             :
   weibo            :
   xing             :
