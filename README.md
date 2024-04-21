@@ -25,7 +25,7 @@ With the help of more than 700 reviewers, we assess the reproducibility of nearl
 Sumbitted to the JPE.
 
 <details>
-  <summary>Abstract | <a href="https://econpapers.repec.org/paper/zbwi4rdps/">Paper</a> </summary>
+  <summary>Abstract | <a href="[https://econpapers.repec.org/paper/zbwi4rdps/](https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf)">Paper</a> </summary>
 This study pushes the boundaries of understanding research reliability by mass reproducing
 and replicating claims from 110 papers in leading economic and political science journals. The
 analysis involves computational reproducibility checks and robustness assessments. It reveals
