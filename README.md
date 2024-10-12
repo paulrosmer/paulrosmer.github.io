@@ -4,7 +4,7 @@
 I am a PhD student at the [Berlin School of Economics](https://berlinschoolofeconomics.de/home) and [Humboldt Unversität zu Berlin](https://www.wiwi.hu-berlin.de/en/research), where I am working on applied microeconomic theory. I am also a fellow at the Berlin Centre for Consumer Policies (BCCP). In my freetime, I contribute to the public good of ensuring reproducibility and replicability of economic research. 
 <br/>
 <br/>
-Find my [CV here](https://paulrosmer.github.io/CV_Paul_Rosmer.pdf) and feel free to contact me at [paul.rosmer@student.hu-berlin.de](mailto:paul.rosmer@student.hu-berlin.de).  <br/>
+Find my [CV here](https://paulrosmer.github.io/CV_Paul_Rosmer.pdf) and feel free to contact me at [paul.rosmer@hu-berlin.de](mailto:paul.rosmer@student.hu-berlin.de).  <br/>
 <br/>
 
 <br/>
