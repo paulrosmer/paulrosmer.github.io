@@ -48,6 +48,7 @@ provision of intermediate or even raw data combined with the necessary cleaning 
 
 ### WORK IN PROGRESS
 **Maximum Matching in Sparse Matching Markets**
+
 **Algorithmic Pricing and Market Dynamics: Insights from the E-Commerce Sector**
 
 <br/>
