@@ -1,7 +1,7 @@
 
 ## WELCOME!
 
-I am a PhD student at the [Berlin School of Economics](https://berlinschoolofeconomics.de/home) and [Humboldt Unversität zu Berlin](https://www.wiwi.hu-berlin.de/en/research), where I am working on applied microeconomic theory. I am also a fellow at the Berlin Centre for Consumer Policies (BCCP). In my freetime, I contribute to the public good of ensuring reproducibility and replicability of economic research. 
+I am a PhD student at the [Berlin School of Economics](https://berlinschoolofeconomics.de/home) and [Humboldt Unversität zu Berlin](https://www.wiwi.hu-berlin.de/en/research), where I am working on (applied) microeconomic theory and behavioral economics. I am especially interested in Market Design and the Microeconomics of AI. I am also a fellow at the Berlin Centre for Consumer Policies (BCCP). In my freetime, I contribute to the public good of ensuring reproducibility and replicability of economic research. 
 <br/>
 <br/>
 Find my [CV here](https://paulrosmer.github.io/CV_Paul_Rosmer.pdf) and feel free to contact me at [paul.rosmer@hu-berlin.de](mailto:paul.rosmer@student.hu-berlin.de).  <br/>
@@ -22,7 +22,7 @@ With the help of more than 700 reviewers, we assess the reproducibility of nearl
  
 ### WORKING PAPERS
 **Mass Reproducibility and Replicability: A New Hope** (with Brodeur, Mikola, Cook et al.)  <br/>
-Sumbitted to ReStud.
+Sumbitted to Nature.
 
 <details>
   <summary>Abstract | <a href="https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf">Paper</a> </summary>
@@ -48,6 +48,7 @@ provision of intermediate or even raw data combined with the necessary cleaning 
 
 ### WORK IN PROGRESS
 **Maximum Matching in Sparse Matching Markets**
+**Algorithmic Pricing and Market Dynamics: Insights from the E-Commerce Sector**
 
 <br/>
 
