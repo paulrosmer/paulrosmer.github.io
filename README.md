@@ -49,7 +49,7 @@ provision of intermediate or even raw data combined with the necessary cleaning 
 ### WORK IN PROGRESS
 **Maximum Matching in Sparse Matching Markets**
 
-**The Attachment Effect in Dynamic Multi-Offer Mechanisms (with Vincent Meinser, Ran Shorrer, and Jonas von Wangenheim)**
+**The Attachment Effect in Dynamic Multi-Offer Mechanisms*** (with Vincent Meinser, Ran Shorrer, and Jonas von Wangenheim)
 
 <br/>
 
