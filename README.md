@@ -22,7 +22,7 @@ With the help of more than 700 reviewers, we assess the reproducibility of nearl
  
 ### WORKING PAPERS
 **Mass Reproducibility and Replicability: A New Hope** (with Brodeur, Mikola, Cook et al.)  <br/>
-Sumbitted to Nature.
+R&R at Nature.
 
 <details>
   <summary>Abstract | <a href="https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf">Paper</a> </summary>
