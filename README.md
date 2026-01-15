@@ -22,7 +22,7 @@ With the help of more than 700 reviewers, we assess the reproducibility of nearl
  
 ### WORKING PAPERS
 **Mass Reproducibility and Replicability: A New Hope** (with Brodeur, Mikola, Cook et al.)  <br/>
-R&R at Nature.
+Conditionally accepted at Nature.
 
 <details>
   <summary>Abstract | <a href="https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf">Paper</a> </summary>
@@ -47,6 +47,9 @@ provision of intermediate or even raw data combined with the necessary cleaning 
  
 
 ### WORK IN PROGRESS
+
+**Human Learning with AI Agents**
+
 **Maximum Matching in Sparse Matching Markets**
 
 **The Attachment Effect in Dynamic Multi-Offer Mechanisms*** (with Vincent Meinser, Ran Shorrer, and Jonas von Wangenheim)
