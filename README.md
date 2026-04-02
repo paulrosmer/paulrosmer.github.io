@@ -19,11 +19,12 @@ With the help of more than 700 reviewers, we assess the reproducibility of nearl
 </details>
 
  <br/>
+ 
 **Reproducibility and robustness of economics and political science research** (with Brodeur, Mikola, Cook et al.)  <br/>
 Nature(2026).
 
 <details>
-  <summary>Abstract | <a href="https://www.nature.com/articles/s41586-026-10251-x">Paper</a> <a href="https://ideas.repec.org/p/zbw/i4rdps/287.html">Preprint</a> </summary>
+  <summary>Abstract | <a href="https://www.nature.com/articles/s41586-026-10251-x">Paper</a> | <a href="https://ideas.repec.org/p/zbw/i4rdps/287.html">Preprint</a> </summary>
 This study pushes the boundaries of understanding research reliability by mass reproducing
 and replicating claims from 110 papers in leading economic and political science journals. The
 analysis involves computational reproducibility checks and robustness assessments. It reveals
