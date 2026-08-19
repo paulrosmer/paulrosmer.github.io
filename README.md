@@ -1,7 +1,7 @@
 
 ## WELCOME!
 
-I am a PhD student at the [Berlin School of Economics](https://berlinschoolofeconomics.de/home) and [Humboldt Unversität zu Berlin](https://www.wiwi.hu-berlin.de/en/research), where I am working on (applied) microeconomic theory and behavioral economics. I am especially interested in Market Design and the Microeconomics of AI. I am also a fellow at the Berlin Centre for Consumer Policies (BCCP). In my freetime, I contribute to the public good of ensuring reproducibility and replicability of economic research. 
+I am a PhD student at the [Berlin School of Economics](https://berlinschoolofeconomics.de/home) and [Humboldt Unversität zu Berlin](https://www.wiwi.hu-berlin.de/en/research). My research focuses on the **Economics of AI and Market Design**. I use microeconomic theory, experiments, and data to study how individuals and institutions interact with AI systems, with a particular interest in behavioral anomalies and their implications for market and mechanism design. I am also a fellow at the Berlin Centre for Consumer Policies (BCCP). In my freetime, I contribute to the public good of ensuring reproducibility and replicability of economic research. 
 <br/>
 <br/>
 Find my [CV here](https://paulrosmer.github.io/CV_Paul_Rosmer_academic.pdf) and feel free to contact me at [paul.rosmer@hu-berlin.de](mailto:paul.rosmer@student.hu-berlin.de).  <br/>
@@ -21,7 +21,7 @@ With the help of more than 700 reviewers, we assess the reproducibility of nearl
  <br/>
  
 **Reproducibility and robustness of economics and political science research** (with Brodeur, Mikola, Cook et al.)  <br/>
-Nature(2026).
+Nature (2026).
 
 <details>
   <summary>Abstract | <a href="https://www.nature.com/articles/s41586-026-10251-x">Paper</a> | <a href="https://ideas.repec.org/p/zbw/i4rdps/287.html">Preprint</a> </summary>
@@ -47,13 +47,13 @@ provision of intermediate or even raw data combined with the necessary cleaning 
 
 ### WORK IN PROGRESS
 
-**Human Learning with AI Agents**
+**Organizational Design with Artificial Intelligence**
 
-**Communication with AI: Concepts or Data?**
-
-**Maximum Matching in Sparse Matching Markets**
+**Designing Strategic Human–AI Interaction?**
 
 **The Attachment Effect in Dynamic Multi-Offer Mechanisms** (with Vincent Meinser, Ran Shorrer, and Jonas von Wangenheim)
+
+**Maximum Matching in Sparse Matching Markets**
 
 <br/>
 
