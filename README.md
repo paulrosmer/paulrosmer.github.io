@@ -49,7 +49,7 @@ provision of intermediate or even raw data combined with the necessary cleaning 
 
 **Organizational Design with Artificial Intelligence**
 
-**Designing Strategic Human–AI Interaction?**
+**Designing Strategic Human–AI Interaction**
 
 **The Attachment Effect in Dynamic Multi-Offer Mechanisms** (with Vincent Meinser, Ran Shorrer, and Jonas von Wangenheim)
 
